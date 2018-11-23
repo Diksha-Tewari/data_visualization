@@ -1,9 +1,9 @@
 # Data_Visualization Project
-<br>
 sem 5 
 <br>
 Roll no 54
 <br>
+
 # Stock Market Data Visualization
 <br>
 1.<b>Live</b> data has been visualized of four different companies using NSETOOLS which provide with real time data from NSE(National Stock Exchange) of different companies.
